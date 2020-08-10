@@ -1,0 +1,2 @@
+# Employee-Performance
+The data provided here is from INX Future Inc. This data represents the performance rating of the employees and the underlying influencing factors.  The main objective of this project is about developing a model to predict employee performance based on the predictor variables provided in the raw data, in order to identify three major factors affecting the employee performance. Another objective of the project is to provide recommendations to improve the employee performance.
